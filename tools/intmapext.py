@@ -1,0 +1,1 @@
+/usr/local/stbrelease/scripts/intmapext.py

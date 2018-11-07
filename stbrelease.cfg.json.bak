@@ -1,0 +1,228 @@
+{
+    "Province": [
+        {
+            "Shorthand": "ALL", 
+            "name": "ALL"
+        }, 
+        {
+            "Shorthand": "bj", 
+            "name": "北京"
+        }, 
+        {
+            "Shorthand": "tj", 
+            "name": "天津"
+        }, 
+        {
+            "Shorthand": "he", 
+            "name": "河北"
+        }, 
+        {
+            "Shorthand": "sx", 
+            "name": "山西"
+        }, 
+        {
+            "Shorthand": "nm", 
+            "name": "内蒙古"
+        }, 
+        {
+            "Shorthand": "ln", 
+            "name": "辽宁"
+        }, 
+        {
+            "Shorthand": "jl", 
+            "name": "吉林"
+        }, 
+        {
+            "Shorthand": "hl", 
+            "name": "黑龙江"
+        }, 
+        {
+            "Shorthand": "sh", 
+            "name": "上海"
+        }, 
+        {
+            "Shorthand": "js", 
+            "name": "江苏"
+        }, 
+        {
+            "Shorthand": "zj", 
+            "name": "浙江"
+        }, 
+        {
+            "Shorthand": "ah", 
+            "name": "安徽"
+        }, 
+        {
+            "Shorthand": "fj", 
+            "name": "福建"
+        }, 
+        {
+            "Shorthand": "jx", 
+            "name": "江西"
+        }, 
+        {
+            "Shorthand": "sd", 
+            "name": "山东"
+        }, 
+        {
+            "Shorthand": "qd", 
+            "name": "青岛"
+        }, 
+        {
+            "Shorthand": "ha", 
+            "name": "河南"
+        }, 
+        {
+            "Shorthand": "hb", 
+            "name": "湖北"
+        }, 
+        {
+            "Shorthand": "hn", 
+            "name": "湖南"
+        }, 
+        {
+            "Shorthand": "gd", 
+            "name": "广东"
+        }, 
+        {
+            "Shorthand": "hi", 
+            "name": "海南"
+        }, 
+        {
+            "Shorthand": "gx", 
+            "name": "广西"
+        }, 
+        {
+            "Shorthand": "cq", 
+            "name": "重庆"
+        }, 
+        {
+            "Shorthand": "sc", 
+            "name": "四川"
+        }, 
+        {
+            "Shorthand": "gz", 
+            "name": "贵州"
+        }, 
+        {
+            "Shorthand": "yn", 
+            "name": "云南"
+        }, 
+        {
+            "Shorthand": "sn", 
+            "name": "陕西"
+        }, 
+        {
+            "Shorthand": "gs", 
+            "name": "甘肃"
+        }, 
+        {
+            "Shorthand": "qh", 
+            "name": "青海"
+        }, 
+        {
+            "Shorthand": "nx", 
+            "name": "宁夏"
+        }, 
+        {
+            "Shorthand": "xj", 
+            "name": "新疆"
+        }, 
+        {
+            "Shorthand": "xz", 
+            "name": "西藏"
+        }, 
+        {
+            "Shorthand": "sm", 
+            "name": "SingMeng"
+        }, 
+        {
+            "Shorthand": "hq", 
+            "name": "集团"
+        }, 
+        {
+            "Shorthand": "gc", 
+            "name": "工厂"
+        }, 
+        {
+            "Shorthand": "jc", 
+            "name": "集采"
+        }
+    ], 
+    "middleware": [
+        "ALL", 
+        "noMidware", 
+        "suying"
+    ], 
+    "productClass": [
+        "ALL", 
+        "S-010W-A", 
+        "G-120WT-P", 
+        "RG020ET-CA", 
+        "NSB_RG020ETCA", 
+        "S-010W-AV2B", 
+        "S-010W-AV2C", 
+        "S-010W-AV2S", 
+        "G-120WT-Q", 
+        "S-010W-P", 
+        "S-010W-AV2", 
+        "S-010W-AV2A", 
+        "S-010W-AV2T", 
+        "CMIOT-EG-G12", 
+        "CMIOT-EG-E02", 
+        "S-010W-AQD", 
+        "S-010W-AV2D", 
+        "S-010W-AV2A-2", 
+        "S-010W-AV2A-1"
+    ], 
+    "Operator": [
+        {
+            "Shorthand": "ALL", 
+            "name": "ALL"
+        }, 
+        {
+            "Shorthand": "CT", 
+            "name": "电信"
+        }, 
+        {
+            "Shorthand": "CU", 
+            "name": "联通"
+        }, 
+        {
+            "Shorthand": "CM", 
+            "name": "移动"
+        }, 
+        {
+            "Shorthand": "OS", 
+            "name": "海外"
+        }, 
+        {
+            "Shorthand": "gc", 
+            "name": "工厂"
+        }, 
+        {
+            "Shorthand": "ZS", 
+            "name": "胶东机场"
+        }
+    ], 
+    "chipset": [
+        "ALL", 
+        "RK3228B", 
+        "S905L", 
+        "RK3228H", 
+        "S905L2", 
+        "S905L3"
+    ], 
+    "wifiType": [
+        "RTL8189ETV", 
+        "RTL8822BS", 
+        "RTL8192ER", 
+        "8189FTV", 
+        "NA", 
+        "RTL8676", 
+        "NOWIFI", 
+        "MTK7526FU", 
+        "AP6356S", 
+        "EN7526FD"
+    ]
+}
